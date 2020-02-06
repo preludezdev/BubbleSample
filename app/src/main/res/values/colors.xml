@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF065C</color>
+
+    <color name="roseStart">#f4f4f8</color>
+    <color name="roseEnd">#18baff</color>
+    <color name="blueStart">#18baff</color>
+    <color name="blueEnd">#0ca6f9</color>
+    <color name="purpleStart">#a369ff</color>
+    <color name="purpleEnd">#0e56ff</color>
+    <color name="greenStart">#a7f56e</color>
+    <color name="greenEnd">#11c612</color>
+
+    <color name="text_color_default" tools:ignore="MissingDefaultResource">#aaadc6</color>
+    <color name="text_color_active" tools:ignore="MissingDefaultResource">#ffffff</color>
+
+    <color name="bubble_color_default" tools:ignore="MissingDefaultResource">#f4f4f8</color>
+    <color name="bubble_color_active" tools:ignore="MissingDefaultResource">#18baff</color>
+</resources>

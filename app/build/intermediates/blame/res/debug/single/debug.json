@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_ecuador.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/ecuador.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_cuba.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/cuba.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_dominican_republic.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/dominican_republic.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_argentina.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/argentina.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_peru.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/peru.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_chile.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/chile.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_venezuela.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/venezuela.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_bolivia.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/bolivia.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_mexico.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/mexico.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_costa_rica.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/costa_rica.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_bg_blue.png.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/bg_blue.png"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_honduras.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/honduras.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_panama.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/panama.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_paraguay.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/paraguay.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_haiti.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/haiti.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_nicaragua.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/nicaragua.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_el_salvador.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/el_salvador.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable-v24_brazil.jpg.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable-v24/brazil.jpg"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable_ic_bg_blue.xml.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable/ic_bg_blue.xml"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/jeongtaehwi/AndroidStudioProjects/BubbleSample/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

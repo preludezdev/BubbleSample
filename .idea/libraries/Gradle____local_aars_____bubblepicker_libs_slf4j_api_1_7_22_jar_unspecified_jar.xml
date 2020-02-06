@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:./bubblepicker/libs/slf4j-api-1.7.22.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bubblepicker/libs/slf4j-api-1.7.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

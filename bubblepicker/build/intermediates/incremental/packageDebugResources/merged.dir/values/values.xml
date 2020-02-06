@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BubblePicker">
+        <attr format="integer" name="maxSelectedCount"/>
+        <attr format="color" name="backgroundColor"/>
+    </declare-styleable>
+</resources>
